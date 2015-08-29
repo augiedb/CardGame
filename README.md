@@ -1,3 +1,9 @@
+# Abandoned
+
+__29 August 2015:__
+This module is currently abandoned.  I might get back to it someday. We'll see...
+
+
 # CardGame
 
 This is a set of tools for use in Elixir projects to create and run a card game.  It is loosely based on [the Perl module Games::Cards](http://search.cpan.org/~akarger/Games-Cards-1.45/lib/Games/Cards.pm#Games::Cards::Deck)
